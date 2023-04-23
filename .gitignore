@@ -1,0 +1,6 @@
+client-secret.json
+firestore-vskillup-key.json
+model/
+__pycache__/
+.env
+flask_session
